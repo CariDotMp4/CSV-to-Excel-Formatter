@@ -97,10 +97,6 @@ The generated Excel file includes:
 - **openpyxl**: Excel file generation and styling
 - **pyinstaller**: (Optional) For creating standalone executables
 
-## License
-
-[Add your license here]
-
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests.
@@ -108,3 +104,4 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 ## Author
 
 Created as a practical tool for efficient CSV to Excel conversion with professional formatting.
+By CariDotMp4.
