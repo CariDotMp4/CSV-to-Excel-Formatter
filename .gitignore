@@ -1,0 +1,49 @@
+# Build and distribution directories (pyinstaller)
+build/
+dist/
+*.spec
+*.exe
+*.app
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE and editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Local test data and examples
+csv_testes/
+*.xlsx
+*.xls
+relatorio_*.xlsx
+
+# OS-specific
+.DS_Store
+Thumbs.db
